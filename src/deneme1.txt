@@ -2,3 +2,4 @@ deneme 1
 arkadasalar bugun burada siiznle birlikte harika isler yapacagiz
 Evet. Simdiye kadar yaptigimiz her komut calisti. Basarilar.
 bu seferde github dan bilgisayarima gonderdim
+Bu seferde uzaktan bir gonderme yapacagim. ne oalcak birlikte gorecegiz
